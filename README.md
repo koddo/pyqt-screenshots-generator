@@ -1,0 +1,1 @@
+# pyqt-screenshots-generator
